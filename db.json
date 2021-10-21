@@ -1,0 +1,16 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "name": "Communiti Chat",
+            "description": "This is a description of communiti",
+            "imgOne":"This image"
+        },
+        {
+            "id": 2,
+            "name": "Giga Chad",
+            "description":"Giga chad is awesome",
+            "imgOne": "this image"
+        }
+    ]
+}
