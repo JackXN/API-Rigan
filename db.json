@@ -4,10 +4,10 @@
     "projects": [
     {
       "id": 1,
-      "imgSrc": "/LogoYeah.png",
+      "Logo": "/LogoYeah.png",
       "title": "Communiti Live Chat",
       "description": "An Awesome Live Chat Application",
-      "imgOne": "https://i.imgur.com/AD3MbBi.jpeg"
+
     },
     {
       "id": 2,
