@@ -4,7 +4,7 @@
     "projects": [
     {
       "id": 1,
-      "Logo": "/LogoYeah.png",
+      "logo": "/LogoYeah.png",
       "title": "Communiti Live Chat",
       "description": "An Awesome Live Chat Application",
 
