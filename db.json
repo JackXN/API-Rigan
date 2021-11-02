@@ -11,7 +11,6 @@
       "iconTwo":  "JavaScript" ,
       "icontThree": "Node",
       "iconFour": "SQL"
-
     },
     {
       "id": 2,
@@ -72,11 +71,6 @@
       "iconTwo": "JavaScript" ,
       "icontThree": "Node",
       "iconFour": "SQL"
-    },
-  {
-    "id": "8",
-    "imgSrc": "something",
-    
-  }
+    }
 ]
 }
