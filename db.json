@@ -9,7 +9,7 @@
       "imgOne": "https://raw.githubusercontent.com/JackXN/Pomodoro-Timer/master/screenshots/p-dashboard.png",
       "iconOne":"React",
       "iconTwo":  "JavaScript" ,
-      "icontThree": "Node",
+      "iconThree": "Node",
       "iconFour": "SQL"
     },
     {
@@ -19,7 +19,7 @@
       "description": "Giga Chad is an online crypto trading network also referred to as a crypto fraternity. With a community of over 30,000 members. Our network consists of a wide range of various personalities, specialties, nationalities and interests. Giga Chad is a place where crypto traders from all around the world can come together, share resources, and create new connections that lead to new oppurtunities and knowledge in the fast changing world of crypto currency.",
       "iconOne":"React",
       "iconTwo": "JavaScript" ,
-      "icontThree": "Node",
+      "iconThree": "Node",
       "iconFour": "SQL"
     },
     {
@@ -29,7 +29,7 @@
       "description": "The pomodoro technique has been around for decades.",
       "iconOne":"React",
       "iconTwo": "JavaScript" ,
-      "icontThree": "Node",
+      "iconThree": "Node",
       "iconFour": "SQL"
     },
     {
@@ -39,7 +39,7 @@
       "description": "This project became an idea after coming across a beautifully designed Cyber Security landing page.",
       "iconOne":"React",
       "iconTwo": "JavaScript" ,
-      "icontThree": "Node",
+      "iconThree": "Node",
       "iconFour": "SQL"
     },
     {
@@ -49,7 +49,7 @@
       "description": "Dashboard for managing Dinner reservations and table seating",
       "iconOne":"React",
       "iconTwo": "JavaScript" ,
-      "icontThree": "Node",
+      "iconThree": "Node",
       "iconFour": "SQL"
     },
     {
@@ -69,7 +69,7 @@
       "description": "An App Designed To Encrypt And Decrypt Secret Messages",
       "iconOne":"React",
       "iconTwo": "JavaScript" ,
-      "icontThree": "Node",
+      "iconThree": "Node",
       "iconFour": "SQL"
     }
 ]
