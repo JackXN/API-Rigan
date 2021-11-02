@@ -1,5 +1,4 @@
 
-
 {
     "projects": [
     {
@@ -9,7 +8,7 @@
       "description": "I took on this project after i came across an instagram post showcasing a really sweet chat application based off of the Kik platform. I decided it would be a great oppurunity to jump back into dealing with user authentication and database persistance. I had some trouble dealing with the persistance for the chat messages and so i decided just use firebase as it was a simple and small app",
       "imgOne": "https://raw.githubusercontent.com/JackXN/Pomodoro-Timer/master/screenshots/p-dashboard.png",
       "iconOne":"React",
-      "iconTwo": "JavaScript" ,
+      "iconTwo":  "JavaScript" ,
       "icontThree": "Node",
       "iconFour": "SQL"
 
@@ -29,40 +28,55 @@
       "imgSrc": "/TimerLogo.png",
       "title": "Pomodoro Timer",
       "description": "The pomodoro technique has been around for decades.",
-      "repoURL": "",
-      "liveUrl": ""
+      "iconOne":"React",
+      "iconTwo": "JavaScript" ,
+      "icontThree": "Node",
+      "iconFour": "SQL"
     },
     {
       "id": 4,
       "imgSrc": "/ApexLogo.png",
       "title": "Apex Security",
       "description": "This project became an idea after coming across a beautifully designed Cyber Security landing page.",
-      "repoURL": "",
-      "liveUrl": ""
+      "iconOne":"React",
+      "iconTwo": "JavaScript" ,
+      "icontThree": "Node",
+      "iconFour": "SQL"
     },
     {
       "id": 5,
       "imgSrc": "RestaurantLogo.png",
       "title": "Restaurant Reservation App",
       "description": "Dashboard for managing Dinner reservations and table seating",
-      "repoURL": "",
-      "liveUrl": ""
+      "iconOne":"React",
+      "iconTwo": "JavaScript" ,
+      "icontThree": "Node",
+      "iconFour": "SQL"
     },
     {
       "id": 6,
       "imgSrc": "PAXLogo.png",
       "title": "PAX SMP",
       "description": "Landing Page For A Minecraft SMP Server",
-      "repoURL": "",
-      "liveUrl": ""
+      "iconOne":"React",
+      "iconTwo": "JavaScript" ,
+      "icontThree": "Node",
+      "iconFour": "SQL"
     },
     {
       "id": "7",
       "imgSrc": "DecoderLogo.png",
       "title": "The Decoder Ring",
       "description": "An App Designed To Encrypt And Decrypt Secret Messages",
-      "repoURL": "",
-      "liveUrl": ""
-    }
+      "iconOne":"React",
+      "iconTwo": "JavaScript" ,
+      "icontThree": "Node",
+      "iconFour": "SQL"
+    },
+  {
+    "id": "8",
+    "imgSrc": "something",
+    
+  }
 ]
 }
