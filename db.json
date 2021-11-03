@@ -61,6 +61,7 @@
       "imgSrc": "PAXLogo.png",
       "title": "PAX SMP",
       "description": "Landing Page For A Minecraft SMP Server",
+      "imgOne": "https://imgur.com/a/LtwCthu",
       "iconOne":"React",
       "iconTwo": "JavaScript" ,
       "icontThree": "Node",
