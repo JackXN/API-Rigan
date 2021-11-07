@@ -79,13 +79,13 @@
     },
     {
       "id": "7",
-      "imgSrc": "DecoderLogo.png",
+      "imgSrc": "DecoderImg.png",
       "title": "The Decoder Ring",
       "description": "An App Designed To Encrypt And Decrypt Secret Messages",
       "imgOne": "/DecoderImg.png",
       "iconOne":"/JsIcon.png",
-      "iconTwo": "CSSIcon.png" ,
-      "iconThree": "MochaChaiIcon.png",
+      "iconTwo": "/CSSIcon.png" ,
+      "iconThree": "/MochaChaiIcon.png",
       "iconFour": "/HTMLIcon.png",
       "liveUrl": "https://jackxn.github.io/Decoder/",
       "repoUrl": "https://github.com/JackXN/Decoder"
