@@ -29,7 +29,7 @@
       "id": 3,
       "imgSrc": "/TimerLogo.png",
       "title": "Pomodoro Timer",
-      "description": "The pomodoro technique has been around for decades.",
+      "description": "This project is another remake of the famous pomodoro. It use a timer to break work into intervals, in most cases 25 minutes in length, seperated by short breaks. Each interval is known as a pomodoro. I built this app so i could have a custom made version of the pomodoro timer in hopes that it would improve my efficiency and time management when working on other projects. I will eventually be converting it to a mobile app using React Native.",
       "imgOne": "/PomodoroImg.png",
       "iconOne":"/reactIcon.png",
       "iconTwo": "/JestIcon.png" ,
