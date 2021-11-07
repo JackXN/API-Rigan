@@ -11,17 +11,19 @@
       "iconTwo":  "/JsIcon.png" ,
       "iconThree": "/firebaseIcon.svg",
       "iconFour": "/chakraImg.png",
-      "liveUrl": "https://www.google.com"
+      "liveUrl": "https://www.google.com",
+      "repoUrl": "https://www.github.com"
     },
     {
       "id": 2,
       "imgSrc": "/GigaChad.png",
       "title": "Giga Chad's Crypto Fraternity",
       "description": "Giga Chad is an online crypto trading network also referred to as a crypto fraternity. With a community of over 30,000 members. Our network consists of a wide range of various personalities, specialties, nationalities and interests. Giga Chad is a place where crypto traders from all around the world can come together, share resources, and create new connections that lead to new oppurtunities and knowledge in the fast changing world of crypto currency.",
-      "imgOne": "/communitiImg.png",
+      "imgOne": "/GigaChadImg.png",
       "iconOne":"/reactIcon.png",
       "iconTwo": "/StyledComponentsIcon.png",
-      "liveUrl": "https://www.google.com"
+      "liveUrl": "https://www.google.com",
+      "repoUrl": "https://www.github.com"
     },
     {
       "id": 3,
@@ -32,7 +34,9 @@
       "iconOne":"React",
       "iconTwo": "JavaScript" ,
       "iconThree": "Node",
-      "iconFour": "SQL"
+      "iconFour": "SQL",
+      "liveUrl": "https://www.google.com",
+      "repoUrl": "https://www.github.com"
     },
     {
       "id": 4,
@@ -43,7 +47,9 @@
       "iconOne":"React",
       "iconTwo": "JavaScript" ,
       "iconThree": "Node",
-      "iconFour": "SQL"
+      "iconFour": "SQL",
+      "liveUrl": "https://www.google.com",
+      "repoUrl": "https://www.github.com"
     },
     {
       "id": 5,
@@ -54,7 +60,9 @@
       "iconOne":"React",
       "iconTwo": "JavaScript" ,
       "iconThree": "Node",
-      "iconFour": "SQL"
+      "iconFour": "SQL",
+      "liveUrl": "https://www.google.com",
+      "repoUrl": "https://www.github.com"
     },
     {
       "id": 6,
@@ -65,7 +73,9 @@
       "iconOne":"React",
       "iconTwo": "JavaScript" ,
       "icontThree": "Node",
-      "iconFour": "SQL"
+      "iconFour": "SQL",
+      "liveUrl": "https://www.google.com",
+      "repoUrl": "https://www.github.com"
     },
     {
       "id": "7",
@@ -76,7 +86,9 @@
       "iconOne":"React",
       "iconTwo": "JavaScript" ,
       "iconThree": "Node",
-      "iconFour": "SQL"
+      "iconFour": "SQL",
+      "liveUrl": "https://www.google.com",
+      "repoUrl": "https://www.github.com"
     }
 ]
 }
