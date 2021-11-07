@@ -22,6 +22,8 @@
       "imgOne": "/GigaChadImg.png",
       "iconOne":"/reactIcon.png",
       "iconTwo": "/StyledComponentsIcon.png",
+     "iconThree": "/JsIcon.png",
+     "iconFour": "/DataBaseIcon.png",
       "liveUrl": "https://www.google.com",
       "repoUrl": "https://www.github.com"
     },
