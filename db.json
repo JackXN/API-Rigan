@@ -11,8 +11,8 @@
       "iconTwo":  "/JsIcon.png" ,
       "iconThree": "/firebaseIcon.svg",
       "iconFour": "/chakraImg.png",
-      "liveUrl": "https://www.google.com",
-      "repoUrl": "https://www.github.com"
+      "liveUrl": "https://chatapp-d95b6.web.app/",
+      "repoUrl": "https://github.com/JackXN/communiti-chat"
     },
     {
       "id": 2,
@@ -37,8 +37,8 @@
       "iconTwo": "/JestIcon.png" ,
       "iconThree": "/CSSIcon.png",
       "iconFour": "/JsIcon.png",
-      "liveUrl": "https://www.google.com",
-      "repoUrl": "https://www.github.com"
+      "liveUrl": "https://awesome-franklin-363254.netlify.app/",
+      "repoUrl": "https://github.com/JackXN/Pomodoro-Timer"
     },
     {
       "id": 4,
@@ -83,7 +83,7 @@
       "id": "7",
       "imgSrc": "DecoderImg.png",
       "title": "The Decoder Ring",
-      "description": "An App Designed To Encrypt And Decrypt Secret Messages",
+      "description": "The decoder decoder ring is an application i built to demonstrate my competency in advanced javascript algorithms. The decoder ring",
       "imgOne": "/DecoderImg.png",
       "iconOne":"/JsIcon.png",
       "iconTwo": "/CSSIcon.png" ,
