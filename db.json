@@ -2,7 +2,7 @@
 {
     "projects": [
     {
-      "id": 1,
+      "id": 1, 
       "logo": "/LogoYeah.png",
       "title": "Communiti Live Chat",
       "description": "I took on this project after i came across an instagram post showcasing a really sweet chat application based off of the Kik platform. I decided it would be a great oppurunity to jump back into dealing with user authentication and database persistance. I had some trouble dealing with the persistance for the chat messages and so i decided just use firebase as it was a simple and small app",
@@ -18,8 +18,8 @@
       "title": "Giga Chad's Crypto Fraternity",
       "description": "Giga Chad is an online crypto trading network also referred to as a crypto fraternity. With a community of over 30,000 members. Our network consists of a wide range of various personalities, specialties, nationalities and interests. Giga Chad is a place where crypto traders from all around the world can come together, share resources, and create new connections that lead to new oppurtunities and knowledge in the fast changing world of crypto currency.",
       "imgOne": "/communitiImg.png",
-      "iconOne":"React",
-      "iconTwo": "JavaScript" ,
+      "iconOne":"/NextJsIcon.png",
+      "iconTwo": "/StyledComponentsIcon.png",
       "iconThree": "Node",
       "iconFour": "SQL"
     },
