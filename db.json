@@ -68,27 +68,27 @@
       "id": 6,
       "imgSrc": "PAXLogo.png",
       "title": "PAX SMP",
-      "description": "Landing Page For A Minecraft SMP Server",
+      "description": "This particular website was created as a freelancing project for a small time Minecraft SMP Server. I came across a listing for this project on a minecraft forum somewhere for a small time server that was looking for someone to build a simple 1 page portal website for their server. I decided to take on the project as my first official freelance gig. It took me a few hours to complete and i also recieved my first payment for a project. It was a fun project to work on.",
       "imgOne": "/PaxImg.png",
-      "iconOne":"React",
-      "iconTwo": "JavaScript" ,
-      "icontThree": "/NodeIcon.png",
-      "iconFour": "SQL",
+      "iconOne":"/reactIcon.png",
+      "iconTwo": "/JsIcon/png" ,
+      "icontThree": "/StyledComponentsIcon.png",
+      "iconFour": "/VercelIcon/png",
       "liveUrl": "https://pax-smp-kwx6kx4d7-jackxn.vercel.app/",
-      "repoUrl": "https://www.github.com"
+      "repoUrl": "https://github.com/JackXN/Pax-SMP"
     },
     {
       "id": "7",
       "imgSrc": "DecoderLogo.png",
       "title": "The Decoder Ring",
       "description": "An App Designed To Encrypt And Decrypt Secret Messages",
-      "imgOne": "https://imgur.com/a/LtwCthu",
-      "iconOne":"React",
-      "iconTwo": "JavaScript" ,
-      "iconThree": "Node",
-      "iconFour": "SQL",
-      "liveUrl": "https://www.google.com",
-      "repoUrl": "https://www.github.com"
+      "imgOne": "/DecoderImg.png",
+      "iconOne":"/JsIcon.png",
+      "iconTwo": "CSSIcon.png" ,
+      "iconThree": "MochaChaiIcon.png",
+      "iconFour": "/HTMLIcon.png",
+      "liveUrl": "https://jackxn.github.io/Decoder/",
+      "repoUrl": "https://github.com/JackXN/Decoder"
     }
 ]
 }
