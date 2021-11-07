@@ -57,9 +57,9 @@
       "title": "Restaurant Reservation App",
       "description": "This fullstack web application was built as a restaurant management tool for in-house seating and party reservations. It utilizes a simple to use dashboard where a user can create a new reservation and reserve seats for those reservations in a few simple click and clacks. The users information is then saved in the database and listed as a new reservation.  I intend on updating the front end design in the near future",
       "imgOne": "/ResImg.png",
-      "iconOne":"React",
-      "iconTwo": "JavaScript",
-      "iconThree": "Node",
+      "iconOne":"/reactIcon.png",
+      "iconTwo": "/SQLIcon.png",
+      "iconThree": "/NodeIcon.png",
       "iconFour": "SQL",
       "liveUrl": "https://www.google.com",
       "repoUrl": "https://www.github.com"
@@ -72,7 +72,7 @@
       "imgOne": "/communitiImg.png",
       "iconOne":"React",
       "iconTwo": "JavaScript" ,
-      "icontThree": "Node",
+      "icontThree": "/NodeIcon.png",
       "iconFour": "SQL",
       "liveUrl": "https://www.google.com",
       "repoUrl": "https://www.github.com"
