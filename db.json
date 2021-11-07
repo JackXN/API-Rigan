@@ -60,21 +60,21 @@
       "iconOne":"/reactIcon.png",
       "iconTwo": "/SQLIcon.png",
       "iconThree": "/NodeIcon.png",
-      "iconFour": "SQL",
-      "liveUrl": "https://www.google.com",
-      "repoUrl": "https://www.github.com"
+      "iconFour": "/HerokuIcon.png",
+      "liveUrl": "https://periodic-tables-frontend-g5bb766k5-keithfrazier98.vercel.app/dashboard",
+      "repoUrl": "https://github.com/JackXN/Restaurant-Reservation"
     },
     {
       "id": 6,
       "imgSrc": "PAXLogo.png",
       "title": "PAX SMP",
       "description": "Landing Page For A Minecraft SMP Server",
-      "imgOne": "/communitiImg.png",
+      "imgOne": "/PaxImg.png",
       "iconOne":"React",
       "iconTwo": "JavaScript" ,
       "icontThree": "/NodeIcon.png",
       "iconFour": "SQL",
-      "liveUrl": "https://www.google.com",
+      "liveUrl": "https://pax-smp-kwx6kx4d7-jackxn.vercel.app/",
       "repoUrl": "https://www.github.com"
     },
     {
