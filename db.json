@@ -60,7 +60,7 @@
       "iconOne":"/reactIcon.png",
       "iconTwo": "/SQLIcon.png",
       "iconThree": "/NodeIcon.png",
-      "iconFour": "/HerokuIcon.png",
+      "iconFour": "/MochaChaiIcon.png",
       "liveUrl": "https://periodic-tables-frontend-g5bb766k5-keithfrazier98.vercel.app/dashboard",
       "repoUrl": "https://github.com/JackXN/Restaurant-Reservation"
     },
