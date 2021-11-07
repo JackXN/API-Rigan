@@ -73,9 +73,9 @@
       "description": "This particular website was created as a freelancing project for a small time Minecraft SMP Server. I came across a listing for this project on a minecraft forum somewhere for a small time server that was looking for someone to build a simple 1 page portal website for their server. I decided to take on the project as my first official freelance gig. It took me a few hours to complete and i also recieved my first payment for a project. It was a fun project to work on.",
       "imgOne": "/PaxImg.png",
       "iconOne":"/reactIcon.png",
-      "iconTwo": "/JsIcon/png" ,
+      "iconTwo": "/JsIcon.png" ,
       "icontThree": "/StyledComponentsIcon.png",
-      "iconFour": "/VercelIcon/png",
+      "iconFour": "/VercelIcon.png",
       "liveUrl": "https://pax-smp-kwx6kx4d7-jackxn.vercel.app/",
       "repoUrl": "https://github.com/JackXN/Pax-SMP"
     },
