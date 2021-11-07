@@ -81,7 +81,7 @@
     },
     {
       "id": "7",
-      "imgSrc": "DecoderImg.png",
+      "imgSrc": "/DecoderImg.png",
       "title": "The Decoder Ring",
       "description": "The decoder decoder ring is an application i built to demonstrate my competency in advanced javascript algorithms. The decoder ring",
       "imgOne": "/DecoderImg.png",
@@ -91,6 +91,15 @@
       "iconFour": "/HTMLIcon.png",
       "liveUrl": "https://jackxn.github.io/Decoder/",
       "repoUrl": "https://github.com/JackXN/Decoder"
+    },
+    {
+      "id": "8",
+      "imgSrc": "/DLogo.png",
+      "title": "Devnicks Services",
+      "description": "This is a rebuild of Devnicks.com. The design principles and animation libraries inspired me to recreate it and build a brand new version. This project is just for fun and is not intended to be used as a live version.",
+      "imgOne": "/DLogo.png",
+      "iconOne":"/NextJsIcon.png",
+      "iconTwo": "/chakraImg.png"
     }
 ]
 }
