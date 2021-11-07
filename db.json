@@ -48,15 +48,15 @@
       "iconTwo": "/FramerMotionIcon.png" ,
       "iconThree": "/ThemeUIIcon.png",
       "iconFour": "/VercelIcon.png",
-      "liveUrl": "https://www.google.com",
-      "repoUrl": "https://www.github.com"
+      "liveUrl": "https://next-js-sec-nbfxbdm51-jackxn.vercel.app/",
+      "repoUrl": "https://github.com/JackXN/next-js-sec"
     },
     {
       "id": 5,
       "imgSrc": "RestaurantLogo.png",
       "title": "Restaurant Reservation App",
-      "description": "Dashboard for managing Dinner reservations and table seating",
-      "imgOne": "https://imgur.com/a/LtwCthu",
+      "description": "This fullstack web application was built as a restaurant management tool for in-house seating and party reservations. It utilizes a simple to use dashboard where a user can create a new reservation and reserve seats for those reservations in a few simple click and clacks. The users information is then saved in the database and listed as a new reservation.  I intend on updating the front end design in the near future",
+      "imgOne": "/ResImg.png",
       "iconOne":"React",
       "iconTwo": "JavaScript",
       "iconThree": "Node",
