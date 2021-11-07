@@ -10,7 +10,8 @@
       "iconOne":"/reactIcon.png",
       "iconTwo":  "/JsIcon.png" ,
       "iconThree": "/firebaseIcon.svg",
-      "iconFour": "/chakraImg.png"
+      "iconFour": "/chakraImg.png",
+      "liveUrl": "https://www.google.com"
     },
     {
       "id": 2,
@@ -19,7 +20,8 @@
       "description": "Giga Chad is an online crypto trading network also referred to as a crypto fraternity. With a community of over 30,000 members. Our network consists of a wide range of various personalities, specialties, nationalities and interests. Giga Chad is a place where crypto traders from all around the world can come together, share resources, and create new connections that lead to new oppurtunities and knowledge in the fast changing world of crypto currency.",
       "imgOne": "/communitiImg.png",
       "iconOne":"/reactIcon.png",
-      "iconTwo": "/StyledComponentsIcon.png"
+      "iconTwo": "/StyledComponentsIcon.png",
+      "liveUrl": "https://www.google.com"
     },
     {
       "id": 3,
