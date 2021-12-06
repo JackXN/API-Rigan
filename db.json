@@ -2,7 +2,7 @@
 {
     "projects": [
     {
-      "id": 1, 
+      "id": 1,
       "logo": "/LogoYeah.png",
       "title": "Communiti Live Chat",
       "description": "I took on this project after i came across an instagram post showcasing a really sweet chat application based off of the Kik platform. I decided it would be a great oppurunity to jump back into dealing with user authentication and database persistance. I had some trouble dealing with the persistance for the chat messages and so i decided just use firebase as it was a simple and small app",
@@ -12,7 +12,8 @@
       "iconThree": "/firebaseIcon.svg",
       "iconFour": "/chakraImg.png",
       "liveUrl": "https://chatapp-d95b6.web.app/",
-      "repoUrl": "https://github.com/JackXN/communiti-chat"
+      "repoUrl": "https://github.com/JackXN/communiti-chat",
+      "iconTest": "Javascript"
     },
     {
       "id": 2,
@@ -25,7 +26,8 @@
      "iconThree": "/JsIcon.png",
      "iconFour": "/DataBaseIcon.png",
       "liveUrl": "https://www.google.com",
-      "repoUrl": "https://www.github.com"
+      "repoUrl": "https://www.github.com",
+      "iconTest": "Javascript"
     },
     {
       "id": 3,
@@ -38,7 +40,8 @@
       "iconThree": "/CSSIcon.png",
       "iconFour": "/JsIcon.png",
       "liveUrl": "https://awesome-franklin-363254.netlify.app/",
-      "repoUrl": "https://github.com/JackXN/Pomodoro-Timer"
+      "repoUrl": "https://github.com/JackXN/Pomodoro-Timer",
+      
     },
     {
       "id": 4,
@@ -91,6 +94,19 @@
       "iconFour": "/HTMLIcon.png",
       "liveUrl": "https://jackxn.github.io/Decoder/",
       "repoUrl": "https://github.com/JackXN/Decoder"
+    },
+    {
+      "id": "8",
+      "imgSrc": "/DLogo.png",
+      "title": "Devnicks Services",
+      "description": "This is a rebuild of Devnicks.com. The design principles and animation libraries inspired me to recreate it and build a brand new version. This project is just for fun and is not intended to be used as a live version.",
+      "imgOne": "/DLogo.png",
+      "iconOne":"/NextJsIcon.png",
+      "iconTwo": "/chakraImg.png",
+      "iconThree": "/MochaChaiIcon.png",
+      "iconFour": "/HTMLIcon.png",
+      "liveUrl": "https://jackxn.github.io/Decoder/",
+      "repoUrl": "https://github.com/JackXN/Decoder"
     }
-    ]
+]
 }
