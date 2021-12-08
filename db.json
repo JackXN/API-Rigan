@@ -3,7 +3,7 @@
     "projects": [
     {
       "id": 1,
-      "logo": "/LogoYeah.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Cow_female_black_white.jpg",
       "title": "Communiti Live Chat",
       "description": "I took on this project after i came across an instagram post showcasing a really sweet chat application based off of the Kik platform. I decided it would be a great oppurunity to jump back into dealing with user authentication and database persistance. I had some trouble dealing with the persistance for the chat messages and so i decided just use firebase as it was a simple and small app",
       "imgOne": "/communitiImg.png",
@@ -28,85 +28,6 @@
       "liveUrl": "https://www.google.com",
       "repoUrl": "https://www.github.com",
       "iconTest": "Javascript"
-    },
-    {
-      "id": 3,
-      "imgSrc": "/TimerLogo.png",
-      "title": "Pomodoro Timer",
-      "description": "This project is another remake of the famous pomodoro. It use a timer to break work into intervals, in most cases 25 minutes in length, seperated by short breaks. Each interval is known as a pomodoro. I built this app so i could have a custom made version of the pomodoro timer in hopes that it would improve my efficiency and time management when working on other projects. I will eventually be converting it to a mobile app using React Native.",
-      "imgOne": "/PomodoroImg.png",
-      "iconOne":"/reactIcon.png",
-      "iconTwo": "/JestIcon.png" ,
-      "iconThree": "/CSSIcon.png",
-      "iconFour": "/JsIcon.png",
-      "liveUrl": "https://awesome-franklin-363254.netlify.app/",
-      "repoUrl": "https://github.com/JackXN/Pomodoro-Timer",
-
-    },
-    {
-      "id": 4,
-      "imgSrc": "/ApexLogo.png",
-      "title": "Apex Security",
-      "description": "Apex Security is a concept website for a made up CyberSecurity company and the inspiration came from the TCM Cyber Security website. The aesthetics and design possibility that comes with a website as such is amazing and it really inspired me and so I decided i wanted to try replicating the website but with some different technologies and slight design tweaks. As im learning new techniques in other projects i am still building Apex as well as implementing these new design techniques",
-      "imgOne": "/ApexImg.png",
-      "iconOne":"/NextJsIcon.png",
-      "iconTwo": "/FramerMotionIcon.png" ,
-      "iconThree": "/ThemeUIIcon.png",
-      "iconFour": "/VercelIcon.png",
-      "liveUrl": "https://next-js-sec-nbfxbdm51-jackxn.vercel.app/",
-      "repoUrl": "https://github.com/JackXN/next-js-sec"
-    },
-    {
-      "id": 5,
-      "imgSrc": "RestaurantLogo.png",
-      "title": "Restaurant Reservation App",
-      "description": "This fullstack web application was built as a restaurant management tool for in-house seating and party reservations. It utilizes a simple to use dashboard where a user can create a new reservation and reserve seats for those reservations in a few simple click and clacks. The users information is then saved in the database and listed as a new reservation.  I intend on updating the front end design in the near future",
-      "imgOne": "/ResImg.png",
-      "iconOne":"/reactIcon.png",
-      "iconTwo": "/SQLIcon.png",
-      "iconThree": "/NodeIcon.png",
-      "iconFour": "/MochaChaiIcon.png",
-      "liveUrl": "https://periodic-tables-frontend-g5bb766k5-keithfrazier98.vercel.app/dashboard",
-      "repoUrl": "https://github.com/JackXN/Restaurant-Reservation"
-    },
-    {
-      "id": 6,
-      "imgSrc": "PAXLogo.png",
-      "title": "PAX SMP",
-      "description": "This particular website was created as a freelancing project for a small time Minecraft SMP Server. I came across a listing for this project on a minecraft forum somewhere for a small time server that was looking for someone to build a simple 1 page portal website for their server. I decided to take on the project as my first official freelance gig. It took me a few hours to complete and i also recieved my first payment for a project. It was a fun project to work on.",
-      "imgOne": "/PaxImg.png",
-      "iconOne":"/reactIcon.png",
-      "iconTwo": "/JsIcon.png" ,
-      "iconThree": "/StyledComponentsIcon.png",
-      "iconFour": "/VercelIcon.png",
-      "liveUrl": "https://pax-smp-kwx6kx4d7-jackxn.vercel.app/",
-      "repoUrl": "https://github.com/JackXN/Pax-SMP"
-    },
-    {
-      "id": "7",
-      "imgSrc": "/DecoderImg.png",
-      "title": "The Decoder Ring",
-      "description": "The decoder decoder ring is an application i built to demonstrate my competency in advanced javascript algorithms. The decoder ring",
-      "imgOne": "/DecoderImg.png",
-      "iconOne":"/JsIcon.png",
-      "iconTwo": "/CSSIcon.png" ,
-      "iconThree": "/MochaChaiIcon.png",
-      "iconFour": "/HTMLIcon.png",
-      "liveUrl": "https://jackxn.github.io/Decoder/",
-      "repoUrl": "https://github.com/JackXN/Decoder"
-    },
-    {
-      "id": "8",
-      "imgSrc": "/DLogo.png",
-      "title": "Devnicks Services",
-      "description": "This is a rebuild of Devnicks.com. The design principles and animation libraries inspired me to recreate it and build a brand new version. This project is just for fun and is not intended to be used as a live version.",
-      "imgOne": "/DLogo.png",
-      "iconOne":"/NextJsIcon.png",
-      "iconTwo": "/chakraImg.png",
-      "iconThree": "/MochaChaiIcon.png",
-      "iconFour": "/HTMLIcon.png",
-      "liveUrl": "https://jackxn.github.io/Decoder/",
-      "repoUrl": "https://github.com/JackXN/Decoder"
     }
 ]
 }
