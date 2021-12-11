@@ -32,11 +32,7 @@
       "id": 3,
       "imgSrc": "/laptopTest.png",
       "title": "Apex Security",
-      "description": "none",
-      "rowOne": {
-        "title": "Minimalism Speaks for itself",
-        "description": "This app was made with laziness in mind, just be lazy its okay"
-      }
+      "description": "none"
     }
 ]
 }
