@@ -27,13 +27,16 @@
      "iconFour": "/DataBaseIcon.png",
       "liveUrl": "https://www.google.com",
       "repoUrl": "https://www.github.com",
-      "iconTest": "Javascript"
     },
     {
       "id": 3,
       "imgSrc": "/laptopTest.png",
       "title": "Apex Security",
-      "description": "none"
+      "description": "none",
+      "rowOne": {
+        "title": "Minimalism Speaks for itself",
+        "description": "This app was made with laziness in mind, just be lazy its okay"
+      }
     }
 ]
 }
