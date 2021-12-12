@@ -1,21 +1,23 @@
 
 {
-    "projects": [
-    {
+    "projects": {
+    
+    "communiti": {
       "id": 1,
       "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Cow_female_black_white.jpg",
       "title": "Communiti Live Chat",
       "description": "I took on this project after i came across an instagram post showcasing a really sweet chat application based off of the Kik platform. I decided it would be a great oppurunity to jump back into dealing with user authentication and database persistance. I had some trouble dealing with the persistance for the chat messages and so i decided just use firebase as it was a simple and small app",
       "imgOne": "/communitiImg.png",
       "iconOne":"/reactIcon.png",
-      "iconTwo":  "/JsIcon.png" ,
+      "iconTwo" :  "/JsIcon.png" ,
       "iconThree": "/firebaseIcon.svg",
       "iconFour": "/chakraImg.png",
       "liveUrl": "https://chatapp-d95b6.web.app/",
       "repoUrl": "https://github.com/JackXN/communiti-chat",
       "iconTest": "Javascript"
     },
-    {
+
+    "gigachad": {
       "id": 2,
       "imgSrc": "/GigaChad.png",
       "title": "Giga Chad's Crypto Fraternity",
@@ -28,11 +30,12 @@
       "liveUrl": "https://www.google.com",
       "repoUrl": "https://www.github.com"
     },
-    {
+
+    "apex": {
       "id": 3,
-      "imgSrc": "/laptopTest.png",
+      "imgSrc": "https://ibb.co/cw9KNHy",
       "title": "Apex Security",
       "description": "none"
     }
-]
+  }
 }
