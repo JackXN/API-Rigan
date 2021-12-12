@@ -12,9 +12,9 @@
       "descriptionTwo": "simple todo allows peers to collaborate on notes effortlessly and allows the user to share, edit write and view together with up to 50 comrades",
       "descriptionImgOne": "/laptopTest.png",
       "descriptionImgTwo": "/laptopTest.png",
-      "iconOne":"./Icons/javascriptIcon.svg",
-      "iconTow":"./Icons/reactIcon.svg",
-      "iconThree": "./Icons/cssIcon.svg",
+      "iconOne":"/javascriptIcon.svg",
+      "iconTow":"/reactIcon.svg",
+      "iconThree": "/cssIcon.svg",
       "iconFour": ""
 
     },
