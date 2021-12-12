@@ -2,7 +2,7 @@
 {
     "projects": [
     
-    {
+     {
       "id": 1,
       "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Cow_female_black_white.jpg",
       "title": "Communiti Live Chat",
@@ -17,7 +17,7 @@
       "iconTest": "Javascript"
     },
 
-   {
+     {
       "id": 2,
       "imgSrc": "/GigaChad.png",
       "title": "Giga Chad's Crypto Fraternity",
@@ -33,7 +33,7 @@
 
      {
       "id": 3,
-      "imgSrc": "https://ibb.co/cw9KNHy",
+      "imgSrc": "/laptopTest.png",
       "title": "Apex Security",
       "description": "none"
     }
