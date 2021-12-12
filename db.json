@@ -16,7 +16,7 @@
       "iconTow":"/reactIcon.svg",
       "iconThree": "/cssIcon.svg",
       "iconFour": "",
-      "backgroundColor": "orange"
+      "backgroundColor": "#1B99FA"
 
     },
     {
@@ -32,7 +32,7 @@
       "iconTow":"",
       "iconThree": "",
       "iconFour": "",
-      "backgroundColor": "blue"
+      "backgroundColor": "#EC6A5F"
     },
     {
      "id": 4,
@@ -47,7 +47,7 @@
      "iconTow":"",
      "iconThree": "",
      "iconFour": "",
-     "backgroundColor": "purple"
+     "backgroundColor": "#838080"
 
     }
 
