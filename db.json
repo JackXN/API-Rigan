@@ -15,7 +15,8 @@
       "iconOne":"/javascriptIcon.svg",
       "iconTow":"/reactIcon.svg",
       "iconThree": "/cssIcon.svg",
-      "iconFour": ""
+      "iconFour": "",
+      "backgroundColor": "orange"
 
     },
     {
@@ -30,7 +31,8 @@
       "iconOne":"",
       "iconTow":"",
       "iconThree": "",
-      "iconFour": ""
+      "iconFour": "",
+      "backgroundColor": "blue"
     },
     {
      "id": 4,
@@ -44,7 +46,8 @@
      "iconOne":"",
      "iconTow":"",
      "iconThree": "",
-     "iconFour": ""
+     "iconFour": "",
+     "backgroundColor": "purple"
 
     }
 
