@@ -5,7 +5,6 @@
 
      {
       "id": 2,
-      "imgSrc": "/GigaChad.png",
       "title": "simple todo",
       "descriptionTitleOne": "Simplicity at it's finest.",
       "descriptionOne": "With a simple ui and no need to create an account or login, this application is built to allow a quick and easy way of creating any sorts of list for what you need",
@@ -28,9 +27,9 @@
     {
      "id": 4,
      "title": "Restaurant Reservations",
-     "descriptionTitleOne": "Keeping track of reservations has never been eaiser",
-     "descriptionOne": "With an easy to use layout and labeled containers, it makes creating, updating, and cancelling reservations easier than ever.",
-     "descriptionTitleTwo": "1,2.... Your table is ready!",
+     "descriptionTitleOne": "Keep Track Like A Boss",
+     "descriptionOne": "With an easy to use layout and labeled containers, it makes creating, updating, and cancelling reservations easier than ever. Making organization simple and fast",
+     "descriptionTitleTwo": "1..2.... Your table is ready!",
      "descriptionTwo": "With a couple easy clicks you can specify the amount of persons in your party, time of arrival, and where you would like to be seated. Fast, easy,simple.",
      "descriptionImgOne": "/laptopTest.png",
      "descriptionImgTwo": "/laptopTest.png"
