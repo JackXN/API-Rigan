@@ -20,22 +20,27 @@
      {
       "id": 2,
       "imgSrc": "/GigaChad.png",
-      "title": "Giga Chad's Crypto Fraternity",
-      "description": "Giga Chad is an online crypto trading network also referred to as a crypto fraternity. With a community of over 30,000 members. Our network consists of a wide range of various personalities, specialties, nationalities and interests. Giga Chad is a place where crypto traders from all around the world can come together, share resources, and create new connections that lead to new oppurtunities and knowledge in the fast changing world of crypto currency.",
-      "imgOne": "/GigaChadImg.png",
-      "iconOne":"/reactIcon.png",
-      "iconTwo": "/StyledComponentsIcon.png",
-     "iconThree": "/JsIcon.png",
-     "iconFour": "/DataBaseIcon.png",
-      "liveUrl": "https://www.google.com",
-      "repoUrl": "https://www.github.com"
-    },
+      "title": "simple todo",
+      "descriptionTitleOne": "Simplicity at it's finest.",
+      "descriptionOne": "With a simple ui and no need to create an account or login, this application is built to allow a quick and easy way of creating any sorts of list for what you need",
+      "descriptionTitleTwo": "Collaboration To The Max.",
+      "descriptionTwo": "simple todo allows peers to collaborate on notes effortlessly and allows the user to share, edit write and view together with up to 50 comrades",
+      "descriptionImgOne": "/laptopTest.png",
+      "descriptionImgTwo": "laptopTest.png"
 
-     {
+    },
+    {
       "id": 3,
-      "imgSrc": "/laptopTest.png",
-      "title": "Apex Security",
-      "description": "none"
+      "title": "Pomodoro Timer",
+      "descriptionTitleOne": "Time is free, but it's priceless",
+      "descriptionOne": "Managing your time can be a stressful task. It can be difficult to know when you might need a rest, or when you really need to buckle down and get s!#t done! ",
+      "descriptionTitleTwo": "Time Never Lost!",
+      "descriptionTwo": "With a simple ui and easy to understand timeline, this pomodoro application is a suitable tool for anyone trying to manage or accomplish an effective workflow and time use",
+      "descriptionImgOne": "laptopTest.png",
+      "descriptionImgTwo": "laptopTest.png"
     }
+
+
+ 
   ]
 }
