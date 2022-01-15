@@ -36,17 +36,24 @@ router.put('/:id', async (req,res) => {
 
 
 // DELETE A PROJECT
-
-router.delete('/:id,', async (req,res) => {
+router.delete('/:id', async (req,res) => {
     try {
-        const project = await Projects.findById(req.params.id);
-        res.status(200).json(project);
+        await Projects.findByIdAndDelete(req.params.id);
+        res.status(200).json('project deleted');
     }catch(err) {
         console.log(err)
     }
 });
 
 
+// GET A SINGLE PROJECT
+router.get('/find/:id', async (req,res) => {
+    try{
+
+    }catch(err) {
+        console.log(err)
+    }
+})
 
 
 
