@@ -49,8 +49,25 @@ router.delete('/:id', async (req,res) => {
 // GET A SINGLE PROJECT
 router.get('/find/:id', async (req,res) => {
     try{
-
+const project = await Projects.findById(req.params.id);
+res.status(200).json(project)
     }catch(err) {
+        console.log(err)
+    }
+})
+
+// Get ALL PROJECTS
+router.get('/', async (req,res) => {
+    const qNew = req.query.new;
+    try {
+        let projects;
+        if(qNew) {
+            projects = await Projects.find().sort({createdAt: -1}).limit(1);
+        }else {
+            projects = await Projects.find()
+        }
+        res.status(200).json(projects)
+    } catch(err) {
         console.log(err)
     }
 })
