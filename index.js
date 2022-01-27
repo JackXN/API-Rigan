@@ -8,6 +8,7 @@ const cors = require('cors');
 
 // Routes 
 const projectRoute = require('./routes/projects');
+const networkRoute = require('./routes/network');
 
 
 
@@ -27,6 +28,7 @@ app.use(express.json());
 
 // Routes
 app.use('/api/projects', projectRoute);
+app.use('/api/network', networkRoute)
 
 
 app.listen(process.env.PORT || 5000,  () => console.log(`Backend server is running on PORT ${PORT}`))
