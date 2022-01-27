@@ -1,10 +1,9 @@
 const Projects = require('../models/Projects');
-const Product = require('../models/Projects');
 
 const router = require('express').Router();
 
 
-//Test
+
 
 // CREATE A NEW PROJECT
 router.post('/', async (req,res) => {
