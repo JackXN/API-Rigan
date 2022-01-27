@@ -2,9 +2,9 @@ const mongoose = require('mongoose');
 
 const NetworkSchema = new mongoose.Schema(
     {
-        id: {type: Number, required: true, unique: true},
         firstName: {type: String, required: true,},
         lastName: {type: String, required: true},
+        image: {type: String, required: false},
         occupation: {type: String, required: true},
        contact: {
            phoneNumber: {type: Number, required: false},
@@ -12,9 +12,11 @@ const NetworkSchema = new mongoose.Schema(
            linkedIn: {type: String, required: false},
            instagram: {type: String, required: false},
            twitter: {type: String, required: false},
-       }
-
-
+           discord: {type: String, required: false},
+           other: {type: String, required: false},
+       },
+       notes: {type: String, required: false},
+       
     }
 )
 
