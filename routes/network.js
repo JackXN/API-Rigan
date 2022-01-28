@@ -16,7 +16,6 @@ router.post('/', async (req,res) => {
 
 
 //Update network entry
-
 router.put('/:id', async (req,res) => {
     try {
         const updatedNetwork = await Network.findByIdAndUpdate(
@@ -26,7 +25,7 @@ router.put('/:id', async (req,res) => {
         },
         {new: true}
         );
-        res.status(200).json(updatedNetwork)
+        res.status(200).json('Entry updated successfully')
     }catch(err) {
         console.log(err)
     }
